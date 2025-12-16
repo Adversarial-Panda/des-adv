@@ -1,6 +1,6 @@
 # DES-Adv: Dynamic Ensemble Selection for Adaptive Ensemble Adversarial Attacks
 
-![Alt text]([https://github.com/Adversarial-Panda/vision_des/blob/main/images/framework_visiondes.png](https://github.com/Adversarial-Panda/des-adv/blob/main/images/des_adv_framework.png)) 
+![Alt text]([https://github.com/Adversarial-Panda/vision_des/blob/main/images/framework_visiondes.png]) 
 
 
 ## Contributions
